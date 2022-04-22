@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there, I'm Santiago!👋
+I'm a self-taught FrontEnd developer from Venezuela
 
-<!--
-**santiagohernandezs/santiagohernandezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 You can reach me at santiagooheernandez@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const aboutMe = {
+  code: [Javascript, HTML, CSS, Python],
+  technologies = {
+    FrontEnd: {
+      js: ["Vue"],
+      css: ["Bulma", "Buefy", "Tailwind"],
+    },
+    BackEnd: {
+      Js:["Node"],
+    },
+    databases: ["SQL Server"],
+  },
+  currentOccupation: ["First year student, open for some new experience to learn"],
+  challenge: ["Improve my code skills everyday"]
+};
