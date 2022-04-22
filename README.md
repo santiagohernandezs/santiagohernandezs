@@ -2,7 +2,7 @@ Hi there, I'm Santiago!👋
 I'm a self-taught FrontEnd developer from Venezuela
 
 📧 You can reach me at santiagooheernandez@gmail.com
-
+```javascript
 const aboutMe = {
   code: [Javascript, HTML, CSS, Python],
   technologies = {
@@ -18,3 +18,4 @@ const aboutMe = {
   currentOccupation: ["First year student, open for some new experience to learn"],
   challenge: ["Improve my code skills everyday"]
 };
+```
