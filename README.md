@@ -1,4 +1,4 @@
-Hi there, I'm Santiago!👋
+# Hi there, I'm Santiago!👋
 I'm a self-taught FrontEnd developer from Venezuela
 
 📧 You can reach me at santiagooheernandez@gmail.com
