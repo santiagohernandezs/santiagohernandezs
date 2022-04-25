@@ -15,7 +15,7 @@ const aboutMe = {
     },
     databases: ["SQL Server"],
   },
-  currentOccupation: ["First year student, open for some new experience to learn"],
+  currentOccupation: ["First year CS student, open for some new experience to learn"],
   challenge: ["Improve my code skills everyday"]
 };
 ```
