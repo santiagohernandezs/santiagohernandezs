@@ -1,4 +1,5 @@
-![SANTIAGO HERNÁNDEZ](https://user-images.githubusercontent.com/68081080/193484774-4550b2fc-2bea-47da-a51b-ab7e02c0fda0.gif)
+![SANTIAGO HERNÁNDEZ](![SANTIAGO HERNÁNDEZ](https://user-images.githubusercontent.com/68081080/206031657-8f807c80-b3af-4806-8707-01400eb0bf5b.png)
+)
 <h1 align="center"> Hi there, I'm Santiago!👋</h1>
 <h2 align="center">I'm a self-taught FrontEnd developer from Venezuela :venezuela:</h2>
 <ul>
