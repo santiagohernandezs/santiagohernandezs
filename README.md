@@ -13,8 +13,16 @@
 - 💼 Currently working on [Beemo](https://beemo.live/)
 
 # Some Tools I Use
+
+<div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,git,nextjs,vite,tailwind,discord,mysql,mongodb,materialui,figma,nodejs)](https://skillicons.dev)
 
+</div>
+
+<div align="center">
+  
 | <a href="https://github.com/santiagohernandezs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagohernandezs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="santiagohernandezs's github stats" /></a> | <a href="https://github.com/santiagohernandezs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagohernandezs&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+</div>
