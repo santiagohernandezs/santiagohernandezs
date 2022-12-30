@@ -14,11 +14,11 @@
 
 # Some Tools I Use
 
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,git,nextjs,vite,tailwind,discord,mysql,mongodb,materialui,figma,nodejs)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,rust,nodejs,git,nextjs,vite,tailwind,discord,mysql,mongodb,materialui,figma,docker,react,markdown,bots" />
+  </a>
+</p>
 
 <div align="center">
   
