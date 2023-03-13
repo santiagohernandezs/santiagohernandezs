@@ -1,4 +1,4 @@
-![SANTIAGO HERNÁNDEZ (1)](https://user-images.githubusercontent.com/68081080/206031920-c6fa0734-628c-40ab-a9fd-d9734c154996.png)
+![Frame 4](https://user-images.githubusercontent.com/68081080/224590651-c50191a0-21fd-4bd7-915c-cdfd7203d9d1.png)
 <h1 align="center"> Hi there, I'm Santiago! A.K.A Tao👋</h1>
 
 <div align="center">
