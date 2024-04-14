@@ -1,4 +1,4 @@
-![Twitter header - 2](https://user-images.githubusercontent.com/68081080/233633977-47dbdc2d-b2dc-48ad-9a2a-0be4c295cec9.png)
+![Twitter header - 3](https://github.com/santiagohernandezs/santiagohernandezs/assets/68081080/972bff83-d001-4534-9a24-b44750a1361c)
 <h1 align="center"> Hi there, I'm Santiago! A.K.A Tao👋</h1>
 
 <div align="center">
